@@ -1,0 +1,1556 @@
+{
+    "artists": [
+      {
+        "id": 1,
+        "name": "200 Stab Wounds",
+        "albums": [
+          "Slave to the Scalpel"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Aerodrom",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "AL-90",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Alice Phoebe Lou",
+        "albums": [
+          "Orbit",
+          "Paper Castles",
+          "Glow",
+          "Child's Play",
+          "Shelter"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Angelmaker",
+        "albums": [
+          "Decay",
+          "Angelmaker",
+          "Sanctum"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Arctic Monkeys",
+        "albums": [
+          "Whatever People Say I Am, That's What I'm Not",
+          "Favourite Worst Nightmare",
+          "Humbug",
+          "Suck It and See",
+          "AM",
+          "Tranquility Base Hotel & Casino",
+          "The Car"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Ashnikko",
+        "albums": [
+          "Demidevil",
+          "Weedkiller"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Atreyu",
+        "albums": [
+          "Suicide Notes and Butterfly Kisses",
+          "The Curse",
+          "A Death-Grip on Yesterday",
+          "Lead Sails Paper Anchor",
+          "Congregation of the Damned",
+          "In Our Wake",
+          "Baptize"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Attila",
+        "albums": [
+          "Soundtrack to a Party",
+          "Rage",
+          "Outlawed",
+          "About That Life",
+          "Guilty Pleasure",
+          "Chaos",
+          "Villain",
+          "Closure"
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Aurat",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Aurat",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Avril Lavigne",
+        "albums": [
+          "Let Go",
+          "Under My Skin",
+          "The Best Damn Thing",
+          "Goodbye Lullaby",
+          "Avril Lavigne",
+          "Head Above Water",
+          "Love Sux"
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Bad Omens",
+        "albums": [
+          "Bad Omens",
+          "Finding God Before God Finds Me",
+          "The Death of Peace of Mind"
+        ]
+      },
+      {
+        "id": 14,
+        "name": "bbno$",
+        "albums": [
+          "bb steps",
+          "Recess",
+          "i don't care at all",
+          "baby gravy 2",
+          "good luck have fun",
+          "eat ya veggies",
+          "bag or die",
+          "baby gravy 3"
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Beartooth",
+        "albums": [
+          "Disgusting",
+          "Aggressive",
+          "Disease",
+          "Below",
+          "The Surface"
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Bens",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Billie Eilish",
+        "albums": [
+          "When We All Fall Asleep, Where Do We Go?",
+          "Happier Than Ever"
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Blink-182",
+        "albums": [
+          "Cheshire Cat",
+          "Dude Ranch",
+          "Enema of the State",
+          "Take Off Your Pants and Jacket",
+          "Blink-182",
+          "Neighborhoods",
+          "California",
+          "Nine",
+          "One More Time..."
+        ]
+      },
+      {
+        "id": 19,
+        "name": "BONES",
+        "albums": [
+          "BONES",
+          "Powder",
+          "TheManInTheRadiator",
+          "LivingLegend",
+          "DamagedGoods",
+          "UndertheWillowTree",
+          "Unrendered",
+          "NoRedeemingQualities",
+          "Failure",
+          "DeadBoy",
+          "PaidProgramming",
+          "Skinny",
+          "Creep",
+          "HighAndDry",
+          "Disgrace",
+          "Rotten",
+          "Garbage",
+          "LooseScrew",
+          "Scraps",
+          "Nograve",
+          "TeenWitch",
+          "LayMeDown",
+          "Banshee",
+          "Augmented",
+          "Burdens",
+          "Dirt",
+          "Rust",
+          "Offline",
+          "FromBeyondTheGrave",
+          "Bruised",
+          "Frayed",
+          "Ghost",
+          "SoftwareUpdate1.0",
+          "Broken",
+          "KickingTheBucket",
+          "NoRestForTheWicked",
+          "TheDayYouDie",
+          "1MillionBlunts",
+          "Cracker",
+          "SurrenderDorothy",
+          "TeamSesh",
+          "PaidProgramming2",
+          "TheReturnOfThePimp",
+          "Rotten2TheCore",
+          "PaidProgramming3",
+          "WhiteBoyRick",
+          "LeavingMyBody",
+          "Scraps",
+          "BuriedAlive",
+          "BadBoy",
+          "Ecc0",
+          "TheManInTheRadiator2",
+          "TheGrandEscape"
+        ]
+      },
+      {
+        "id": 20,
+        "name": "Brand of Sacrifice",
+        "albums": [
+          "God Hand",
+          "Lifeblood",
+          "Between Death and Dreams"
+        ]
+      },
+      {
+        "id": 21,
+        "name": "Bronze",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 22,
+        "name": "Buzz Kull",
+        "albums": [
+          "Chroma",
+          "New Kind of Cross",
+          "Fascination"
+        ]
+      },
+      {
+        "id": 23,
+        "name": "Cage The Elephant",
+        "albums": [
+          "Cage the Elephant",
+          "Thank You, Happy Birthday",
+          "Melophobia",
+          "Tell Me I'm Pretty",
+          "Social Cues"
+        ]
+      },
+      {
+        "id": 24,
+        "name": "Cannibal Corpse",
+        "albums": [
+          "Eaten Back to Life",
+          "Butchered at Birth",
+          "Tomb of the Mutilated",
+          "The Bleeding",
+          "Vile",
+          "Gallery of Suicide",
+          "Bloodthirst",
+          "Gore Obsessed",
+          "The Wretched Spawn",
+          "Kill",
+          "Evisceration Plague",
+          "Torture",
+          "A Skeletal Domain",
+          "Red Before Black",
+          "Violence Unimagined"
+        ]
+      },
+      {
+        "id": 25,
+        "name": "Cannabis Corpse",
+        "albums": [
+          "Blunted at Birth",
+          "Tube of the Resinated",
+          "Beneath Grow Lights Thou Shalt Rise",
+          "From Wisdom to Baked",
+          "Left Hand Pass",
+          "Nug So Vile"
+        ]
+      },
+      {
+        "id": 26,
+        "name": "Charli XCX",
+        "albums": [
+          "True Romance",
+          "Sucker",
+          "Charli",
+          "How I'm Feeling Now",
+          "Crash"
+        ]
+      },
+      {
+        "id": 27,
+        "name": "Circa Waves",
+        "albums": [
+          "Young Chasers",
+          "Different Creatures",
+          "What's It Like Over There?",
+          "Sad Happy",
+          "Never Going Under"
+        ]
+      },
+      {
+        "id": 28,
+        "name": "Clairo",
+        "albums": [
+          "Immunity",
+          "Sling"
+        ]
+      },
+      {
+        "id": 29,
+        "name": "Darko US",
+        "albums": [
+          "Darko",
+          "Deathmask Pt. 2"
+        ]
+      },
+      {
+        "id": 30,
+        "name": "Defiler",
+        "albums": [
+          "Pangaea",
+          "Nematocera",
+          "The Lazarus Sign"
+        ]
+      },
+      {
+        "id": 31,
+        "name": "Deftones",
+        "albums": [
+          "Adrenaline",
+          "Around the Fur",
+          "White Pony",
+          "Deftones",
+          "Saturday Night Wrist",
+          "Diamond Eyes",
+          "Koi No Yokan",
+          "Gore",
+          "Ohms"
+        ]
+      },
+      {
+        "id": 32,
+        "name": "Disturbed",
+        "albums": [
+          "The Sickness",
+          "Believe",
+          "Ten Thousand Fists",
+          "Indestructible",
+          "Asylum",
+          "Immortalized",
+          "Evolution",
+          "Divisive"
+        ]
+      },
+      {
+        "id": 33,
+        "name": "Dream Widow",
+        "albums": [
+          "Dream Widow"
+        ]
+      },
+      {
+        "id": 34,
+        "name": "Dreamville",
+        "albums": [
+          "Revenge of the Dreamers",
+          "Revenge of the Dreamers II",
+          "Revenge of the Dreamers III",
+          "D-Day: A Gangsta Grillz Mixtape"
+        ]
+      },
+      {
+        "id": 35,
+        "name": "Dua Saleh",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 36,
+        "name": "Eagles",
+        "albums": [
+          "Eagles",
+          "Desperado",
+          "On the Border",
+          "One of These Nights",
+          "Hotel California",
+          "The Long Run",
+          "Long Road Out of Eden"
+        ]
+      },
+      {
+        "id": 37,
+        "name": "Electric Callboy",
+        "albums": [
+          "Bury Me in Vegas",
+          "We Are the Mess",
+          "Crystals",
+          "The Scene",
+          "Rehab",
+          "Tekkno"
+        ]
+      },
+      {
+        "id": 38,
+        "name": "Emmure",
+        "albums": [
+          "Goodbye to the Gallows",
+          "The Respect Issue",
+          "Felony",
+          "Speaker of the Dead",
+          "Slave to the Game",
+          "Eternal Enemies",
+          "Look at Yourself",
+          "Hindsight"
+        ]
+      },
+      {
+        "id": 39,
+        "name": "ENOX",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 40,
+        "name": "Epica",
+        "albums": [
+          "The Phantom Agony",
+          "Consign to Oblivion",
+          "The Divine Conspiracy",
+          "Design Your Universe",
+          "Requiem for the Indifferent",
+          "The Quantum Enigma",
+          "The Holographic Principle",
+          "Omega"
+        ]
+      },
+      {
+        "id": 41,
+        "name": "Exodus",
+        "albums": [
+          "Bonded by Blood",
+          "Pleasures of the Flesh",
+          "Fabulous Disaster",
+          "Impact Is Imminent",
+          "Force of Habit",
+          "Tempo of the Damned",
+          "Shovel Headed Kill Machine",
+          "The Atrocity Exhibition... Exhibit A",
+          "The Atrocity Exhibition... Exhibit B",
+          "Blood In, Blood Out",
+          "Persona Non Grata"
+        ]
+      },
+      {
+        "id": 42,
+        "name": "FIFTY FIFTY",
+        "albums": [
+          "The Beginning: Cupid"
+        ]
+      },
+      {
+        "id": 43,
+        "name": "Frank Ocean",
+        "albums": [
+          "Channel Orange",
+          "Blonde",
+          "Endless"
+        ]
+      },
+      {
+        "id": 44,
+        "name": "Franz Ferdinand",
+        "albums": [
+          "Franz Ferdinand",
+          "You Could Have It So Much Better",
+          "Tonight: Franz Ferdinand",
+          "Right Thoughts, Right Words, Right Action",
+          "Always Ascending",
+          "Hits to the Head"
+        ]
+      },
+      {
+        "id": 45,
+        "name": "From Ashes to New",
+        "albums": [
+          "Day One",
+          "The Future",
+          "Panic",
+          "Blackout"
+        ]
+      },
+      {
+        "id": 46,
+        "name": "Fukkit",
+        "albums": [
+          "Fukkit",
+          "Psychoactive"
+        ]
+      },
+      {
+        "id": 47,
+        "name": "Ghostmane",
+        "albums": [
+          "Ominous",
+          "Plagues",
+          "Hexada",
+          "Anti-Icon",
+          "Skinny",
+          "Flesh Water",
+          "Abyss",
+          "Swerve"
+        ]
+      },
+      {
+        "id": 48,
+        "name": "Glass Animals",
+        "albums": [
+          "Zaba",
+          "How to Be a Human Being",
+          "Dreamland",
+          "Heat Waves"
+        ]
+      },
+      {
+        "id": 49,
+        "name": "Goatwhore",
+        "albums": [
+          "Apocalyptic Havoc",
+          "A Haunting Curse",
+          "Constricting Rage of the Merciless",
+          "Vengeful Ascension",
+          "Blood for the Master",
+          "Angels Hung from the Arches of Heaven"
+        ]
+      },
+      {
+        "id": 50,
+        "name": "Godsmack",
+        "albums": [
+          "Godsmack",
+          "Awake",
+          "Faceless",
+          "IV",
+          "The Oracle",
+          "1000hp",
+          "When Legends Rise"
+        ]
+      },
+      {
+        "id": 51,
+        "name": "Good Shoes",
+        "albums": [
+          "Think Before You Speak",
+          "No Need to Be Downhearted",
+          "The Official Secrets Act"
+        ]
+      },
+      {
+        "id": 52,
+        "name": "Gorillaz",
+        "albums": [
+          "Gorillaz",
+          "Demon Days",
+          "Plastic Beach",
+          "The Fall",
+          "Humanz",
+          "Song Machine, Season One",
+          "Cracker Island"
+        ]
+      },
+      {
+        "id": 53,
+        "name": "Grimes",
+        "albums": [
+          "Geidi Primes",
+          "Halfaxa",
+          "Visions",
+          "Art Angels",
+          "Miss Anthropocene",
+          "Ritual"
+        ]
+      },
+      {
+        "id": 54,
+        "name": "HANABIE",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 55,
+        "name": "Ice Nine Kills",
+        "albums": [
+          "The Burning",
+          "Safe Is Just a Shadow",
+          "Every Trick in the Book",
+          "The Silver Scream",
+          "The Silver Scream 2: Welcome to Horrorwood",
+          "Welcome to Horrorwood"
+        ]
+      },
+      {
+        "id": 56,
+        "name": "Ice Spice",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 57,
+        "name": "Juice WRLD",
+        "albums": [
+          "Goodbye & Good Riddance",
+          "Death Race for Love",
+          "Legends Never Die",
+          "Fighting Demons",
+          "The Party Never Ends"
+        ]
+      },
+      {
+        "id": 58,
+        "name": "Jynx",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 59,
+        "name": "Kanye West",
+        "albums": [
+          "The College Dropout",
+          "Late Registration",
+          "Graduation",
+          "808s & Heartbreak",
+          "My Beautiful Dark Twisted Fantasy",
+          "Yeezus",
+          "The Life of Pablo",
+          "Ye",
+          "Jesus Is King",
+          "Donda",
+          "Donda 2"
+        ]
+      },
+      {
+        "id": 60,
+        "name": "KAQRIYOTERROR",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 61,
+        "name": "Kataklysm",
+        "albums": [
+          "The Prophecies Made",
+          "Serenity in Fire",
+          "Shadows & Dust",
+          "Past in Flames",
+          "In the Arms of Devastation",
+          "Prevail",
+          "Waiting for the End to Come",
+          "Of Ghosts and Gods",
+          "Meditations",
+          "Unconquered"
+        ]
+      },
+      {
+        "id": 62,
+        "name": "Kendrick Lamar",
+        "albums": [
+          "Section.80",
+          "good kid, m.A.A.d city",
+          "To Pimp a Butterfly",
+          "DAMN.",
+          "Mr. Morale & The Big Steppers"
+        ]
+      },
+      {
+        "id": 63,
+        "name": "King Geedorah",
+        "albums": [
+          "Take Me to Your Leader"
+        ]
+      },
+      {
+        "id": 64,
+        "name": "Korn",
+        "albums": [
+          "Korn",
+          "Life Is Peachy",
+          "Follow the Leader",
+          "Issues",
+          "Untouchables",
+          "Take a Look in the Mirror",
+          "See You on the Other Side",
+          "Korn III: Remember Who You Are",
+          "The Path of Totality",
+          "The Paradigm Shift",
+          "The Serenity of Suffering",
+          "The Nothing",
+          "Requiem"
+        ]
+      },
+      {
+        "id": 65,
+        "name": "Limp Bizkit",
+        "albums": [
+          "Three Dollar Bill, Y'all$",
+          "Significant Other",
+          "Chocolate Starfish and the Hot Dog Flavored Water",
+          "Results May Vary",
+          "The Unquestionable Truth (Part 1)",
+          "Gold Cobra",
+          "Stampede of the Disco Elephants",
+          "Still Sucks"
+        ]
+      },
+      {
+        "id": 66,
+        "name": "Linkin Park",
+        "albums": [
+          "Hybrid Theory",
+          "Meteora",
+          "Minutes to Midnight",
+          "A Thousand Suns",
+          "Living Things",
+          "Recharged",
+          "The Hunting Party",
+          "One More Light"
+        ]
+      },
+      {
+        "id": 67,
+        "name": "Little Simz",
+        "albums": [
+          "A Curious Tale of Trials + Persons",
+          "Stillness in Wonderland",
+          "Grey Area",
+          "Sometimes I Might Be Introvert",
+          "NO THANK YOU"
+        ]
+      },
+      {
+        "id": 68,
+        "name": "Lorna Shore",
+        "albums": [
+          "Psalms",
+          "Flesh Coffin",
+          "Immortal",
+          "Pain Remains"
+        ]
+      },
+      {
+        "id": 69,
+        "name": "M|O|O|N",
+        "albums": [
+          "Saturdays",
+          "Fear & Desire"
+        ]
+      },
+      {
+        "id": 70,
+        "name": "Machine Girl",
+        "albums": [
+          "Machine Girl",
+          "WLFGRL",
+          "Expendable",
+          "U Want the Scoop?",
+          "The Ugly"
+        ]
+      },
+      {
+        "id": 71,
+        "name": "Madvillain",
+        "albums": [
+          "Madvillainy"
+        ]
+      },
+      {
+        "id": 72,
+        "name": "MAKAVELIGODD",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 73,
+        "name": "Manu Chao",
+        "albums": [
+          "Clandestino",
+          "Proxima Estación: Esperanza",
+          "Sibérie m'était contée...",
+          "Radio Bemba Sound System",
+          "La Radiolina",
+          "Baionarena",
+          "Clandestino: 20th Anniversary"
+        ]
+      },
+      {
+        "id": 74,
+        "name": "Metro Boomin",
+        "albums": [
+          "Not All Heroes Wear Capes",
+          "Heroes & Villains",
+          "Savage Mode II (with 21 Savage)"
+        ]
+      },
+      {
+        "id": 75,
+        "name": "MF DOOM",
+        "albums": [
+          "Operation: Doomsday",
+          "Mm.. Food",
+          "Born Like This",
+          "The Mouse and the Mask",
+          "Dangerdoom",
+          "Special Herbs",
+          "Konnichiwa"
+        ]
+      },
+      {
+        "id": 76,
+        "name": "MGMT",
+        "albums": [
+          "Oracular Spectacular",
+          "Congratulations",
+          "MGMT",
+          "Little Dark Age",
+          "Sees the Future"
+        ]
+      },
+      {
+        "id": 77,
+        "name": "Mild High Club",
+        "albums": [
+          "Timeline",
+          "Skiptracing",
+          "Going Going Gone"
+        ]
+      },
+      {
+        "id": 78,
+        "name": "Motörhead",
+        "albums": [
+          "Motörhead",
+          "Overkill",
+          "Bomber",
+          "Ace of Spades",
+          "Iron Fist",
+          "Another Perfect Day",
+          "Rock 'n' Roll",
+          "1916",
+          "March ör Die",
+          "Bastards",
+          "Sacrifice",
+          "Overnight Sensation",
+          "Snake Bite Love",
+          "We Are Motörhead",
+          "Kiss of Death",
+          "Motörizer",
+          "Aftershock",
+          "Bad Magic"
+        ]
+      },
+      {
+        "id": 79,
+        "name": "Municipal Waste",
+        "albums": [
+          "Waste 'Em All",
+          "Hazardous Mutation",
+          "The Art of Partying",
+          "Massive Aggressive",
+          "The Fatal Feast",
+          "The Last Rager"
+        ]
+      },
+      {
+        "id": 80,
+        "name": "Neutral Milk Hotel",
+        "albums": [
+          "On Avery Island",
+          "In the Aeroplane Over the Sea",
+          "The Collected Works of Neutral Milk Hotel"
+        ]
+      },
+      {
+        "id": 81,
+        "name": "No Vacation",
+        "albums": [
+          "A Little More",
+          "Phasing"
+        ]
+      },
+      {
+        "id": 82,
+        "name": "Nova Twins",
+        "albums": [
+          "Who Are the Nova Twins?",
+          "Bad Paying Jobs",
+          "Supernova",
+          "Ultra Black"
+        ]
+      },
+      {
+        "id": 83,
+        "name": "Orange Juice",
+        "albums": [
+          "You Can't Hide Your Love Forever",
+          "Rip It Up",
+          "The Orange Juice",
+          "Texas Fever",
+          "The Glasgow School"
+        ]
+      },
+      {
+        "id": 84,
+        "name": "Our Last Night",
+        "albums": [
+          "The Ghosts Among Us",
+          "Say Hello to Sunshine",
+          "The Righteous Ones",
+          "Oak Island",
+          "Select Difficulty",
+          "Let Light Overcome"
+        ]
+      },
+      {
+        "id": 85,
+        "name": "Paleface",
+        "albums": [
+          "The Paleface",
+          "The Paleface",
+          "The Return"
+        ]
+      },
+      {
+        "id": 86,
+        "name": "Paloma Paris",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 87,
+        "name": "Panthera",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 88,
+        "name": "Paraf",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 89,
+        "name": "PiNKII",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 90,
+        "name": "Plavi Orkestar",
+        "albums": [
+          "Sava Šumadija",
+          "Balkan",
+          "Sunčana Strana Ulice",
+          "Kod Kere",
+          "Koji je Ovo Grad?"
+        ]
+      },
+      {
+        "id": 91,
+        "name": "POLKADOT STINGRAY",
+        "albums": [
+          "Zoura",
+          "PINK",
+          "Hoshizora no Dokusen",
+          "Hachimitsu",
+          "Nari"
+        ]
+      },
+      {
+        "id": 92,
+        "name": "Poppy",
+        "albums": [
+          "Poppy.Computer",
+          "Am I a Girl?",
+          "I Disagree",
+          "Flux",
+          "EAT",
+          "Stagger"
+        ]
+      },
+      {
+        "id": 93,
+        "name": "Princess Nokia",
+        "albums": [
+          "1992 Deluxe",
+          "Everything Is Beautiful",
+          "Metallic Butterfly",
+          "A Girl Cried Red",
+          "Real Life",
+          "IMAN"
+        ]
+      },
+      {
+        "id": 94,
+        "name": "Pureojuice",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 95,
+        "name": "Quantum Flux",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 96,
+        "name": "Queens of the Stone Age",
+        "albums": [
+          "Queens of the Stone Age",
+          "Rated R",
+          "Songs for the Deaf",
+          "Lullabies to Paralyze",
+          "Era Vulgaris",
+          "…Like Clockwork",
+          "Villains",
+          "In Times New Roman…"
+        ]
+      },
+      {
+        "id": 97,
+        "name": "Rammstein",
+        "albums": [
+          "Herzeleid",
+          "Sehnsucht",
+          "Mutter",
+          "Reise, Reise",
+          "Rosenrot",
+          "Liebe ist für alle da",
+          "Made in Germany 1995–2011",
+          "Rammstein",
+          "Zeit"
+        ]
+      },
+      {
+        "id": 98,
+        "name": "Rankka",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 99,
+        "name": "RAYE",
+        "albums": [
+          "Hedges",
+          "Second",
+          "My 21st Century Blues"
+        ]
+      },
+      {
+        "id": 100,
+        "name": "Red Hot Chili Peppers",
+        "albums": [
+          "The Red Hot Chili Peppers",
+          "Freaky Styley",
+          "The Uplift Mofo Party Plan",
+          "Mother's Milk",
+          "Blood Sugar Sex Magik",
+          "One Hot Minute",
+          "Californication",
+          "By the Way",
+          "Stadium Arcadium",
+          "I’m with You",
+          "The Getaway",
+          "Return of the Dream Canteen"
+        ]
+      },
+      {
+        "id": 101,
+        "name": "Rosey Reign",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 102,
+        "name": "Ružno Pače",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 103,
+        "name": "Sect Unit",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 104,
+        "name": "Sevendust",
+        "albums": [
+          "Sevendust",
+          "Home",
+          "Animosity",
+          "Seasons",
+          "Next",
+          "Alpha",
+          "Swarm",
+          "Cold Day Memory",
+          "Black Out the Sun",
+          "Time Travelers & Bonfires",
+          "Kill the Flaw",
+          "All I See Is War",
+          "Truth Killer"
+        ]
+      },
+      {
+        "id": 105,
+        "name": "Shahmen",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 106,
+        "name": "Sidewalks and Skeletons",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 107,
+        "name": "Skeletonwitch",
+        "albums": [
+          "At One with the Shadows",
+          "Beyond the Permafrost",
+          "Breathing the Fire",
+          "Forever Abomination",
+          "Serpents Unleashed",
+          "Devouring Radiant Light"
+        ]
+      },
+      {
+        "id": 108,
+        "name": "Slaughter to Prevail",
+        "albums": [
+          "Misery Sermon",
+          "Kostolom",
+          "Hate"
+        ]
+      },
+      {
+        "id": 109,
+        "name": "Slipknot",
+        "albums": [
+          "Slipknot",
+          "Iowa",
+          "Vol. 3: (The Subliminal Verses)",
+          "All Hope Is Gone",
+          "5: The Gray Chapter",
+          "We Are Not Your Kind"
+        ]
+      },
+      {
+        "id": 110,
+        "name": "Soft Blade",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 111,
+        "name": "Suicide Silence",
+        "albums": [
+          "The Cleansing",
+          "No Time to Bleed",
+          "The Black Crown",
+          "You Can't Stop Me",
+          "Dying Is Your Latest Fashion",
+          "Become the Hunter",
+          "See You in Hell"
+        ]
+      },
+      {
+        "id": 112,
+        "name": "Sullivan King",
+        "albums": [
+          "Show Some Teeth",
+          "Temple of the Banshee",
+          "Doomed",
+          "Dark Matter"
+        ]
+      },
+      {
+        "id": 113,
+        "name": "Sunday Scaries",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 114,
+        "name": "System of a Down",
+        "albums": [
+          "System of a Down",
+          "Toxicity",
+          "Steal This Album!",
+          "Mezmerize",
+          "Hypnotize",
+          "Wake Up the Souls",
+          "Protect the Land"
+        ]
+      },
+      {
+        "id": 115,
+        "name": "Tai Verdes",
+        "albums": [
+          "TV",
+          "HDTV",
+          "The Right Place"
+        ]
+      },
+      {
+        "id": 116,
+        "name": "ten56.",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 117,
+        "name": "Teriyaki Boyz",
+        "albums": [
+          "Beef or Chicken",
+          "The Recipe",
+          "Tokyo Drift",
+          "Fun"
+        ]
+      },
+      {
+        "id": 118,
+        "name": "The Avalanches",
+        "albums": [
+          "Since I Left You",
+          "Wildflower",
+          "We Will Always Love You",
+          "Timeless"
+        ]
+      },
+      {
+        "id": 119,
+        "name": "The Black Keys",
+        "albums": [
+          "The Big Come Up",
+          "Thickfreakness",
+          "Rubber Factory",
+          "Magic Potion",
+          "Attack & Release",
+          "Brothers",
+          "El Camino",
+          "Turn Blue",
+          "Let’s Rock",
+          "Delta Kream"
+        ]
+      },
+      {
+        "id": 120,
+        "name": "The Dead 60s",
+        "albums": [
+          "The Dead 60s",
+          "Time to Take Sides",
+          "The Last Resort"
+        ]
+      },
+      {
+        "id": 121,
+        "name": "The Death Set",
+        "albums": [
+          "The Death Set",
+          "Worldwide",
+          "Michel Poiccard",
+          "Sick"
+        ]
+      },
+      {
+        "id": 122,
+        "name": "The Garden",
+        "albums": [
+          "The Garden",
+          "Haha",
+          "Kiss My Super Bowl Ring",
+          "Dahlia",
+          "Evil"
+        ]
+      },
+      {
+        "id": 123,
+        "name": "The Hails",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 124,
+        "name": "The Libertines",
+        "albums": [
+          "Up the Bracket",
+          "The Libertines",
+          "Anthems for Doomed Youth",
+          "Time for Heroes: The Best of The Libertines"
+        ]
+      },
+      {
+        "id": 125,
+        "name": "The Smiths",
+        "albums": [
+          "The Smiths",
+          "Meat Is Murder",
+          "The Queen Is Dead",
+          "Strangeways, Here We Come",
+          "Louder Than Bombs",
+          "Rank",
+          "Hatful of Hollow"
+        ]
+      },
+      {
+        "id": 126,
+        "name": "The Surface",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 127,
+        "name": "The Tale Untold",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 128,
+        "name": "THIRST",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 129,
+        "name": "TOBACCO",
+        "albums": [
+          "Fucked Up Friends",
+          "Maniac Meat",
+          "Ultima II Massage",
+          "Ripe & Majestic",
+          "Hot Wet & Sassy"
+        ]
+      },
+      {
+        "id": 130,
+        "name": "Tove Lo",
+        "albums": [
+          "Queen of the Clouds",
+          "Lady Wood",
+          "Blue Lips",
+          "Sunshine Kitty",
+          "Dirt Femme"
+        ]
+      },
+      {
+        "id": 131,
+        "name": "TTM",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 132,
+        "name": "Upon A Burning Body",
+        "albums": [
+          "The World Is Ours",
+          "Red. White. Green.",
+          "Southern Hostility",
+          "Fury"
+        ]
+      },
+      {
+        "id": 133,
+        "name": "Vansire",
+        "albums": [
+          "The Rolling Sea",
+          "The Modern Western World",
+          "Gravitas"
+        ]
+      },
+      {
+        "id": 134,
+        "name": "Venom Prison",
+        "albums": [
+          "Animus",
+          "Samsara",
+          "Erebos"
+        ]
+      },
+      {
+        "id": 135,
+        "name": "Viktor Vaughn",
+        "albums": [
+          "Vaudeville Villain",
+          "Venomous Villain",
+          "Tango & Cash",
+          "The Black God"
+        ]
+      },
+      {
+        "id": 136,
+        "name": "Volbeat",
+        "albums": [
+          "The Strength / The Sound / The Songs",
+          "Guitar Gangsters & Cadillac Blood",
+          "Beyond Hell / Above Heaven",
+          "Outlaw Gentlemen & Shady Ladies",
+          "Seal the Deal & Let's Boogie",
+          "Rewind, Replay, Rebound",
+          "Servant of the Mind"
+        ]
+      },
+      {
+        "id": 137,
+        "name": "Warbringer",
+        "albums": [
+          "War Without End",
+          "Waking into Nightmares",
+          "Worlds Torn Asunder",
+          "IV: Empires Collapse",
+          "Weapons of Tomorrow",
+          "Pay or Die"
+        ]
+      },
+      {
+        "id": 138,
+        "name": "Warlord Colossus",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 139,
+        "name": "Wavy Matt",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 140,
+        "name": "Wax Motif",
+        "albums": [
+          "Singles and EPs"
+        ]
+      },
+      {
+        "id": 141,
+        "name": "We Butter The Bread With Butter",
+        "albums": [
+          "Das Monster aus dem Schrank",
+          "Hippies und Rassisten",
+          "Goldkinder",
+          "Wir waren hier",
+          "Fleisch"
+        ]
+      },
+      {
+        "id": 142,
+        "name": "Wind Rose",
+        "albums": [
+          "Shadows of the War",
+          "Wardens of the West Wind",
+          "Stonehymn",
+          "Wintersaga",
+          "Azenn"
+        ]
+      },
+      {
+        "id": 143,
+        "name": "WindWaker",
+        "albums": [
+          "Empire",
+          "Infinity"
+        ]
+      },
+      {
+        "id": 144,
+        "name": "XXXTENTACION",
+        "albums": [
+          "17",
+          "?", 
+          "Skins",
+          "Bad Vibes Forever",
+          "Look At Me: The Album"
+        ]
+      },
+      {
+        "id": 145,
+        "name": "YONAKA",
+        "albums": [
+          "Don't Wait 'Til Tomorrow",
+          "Seize the Power",
+          "Renaissance"
+        ]
+      }
+    ]
+  }
+  
